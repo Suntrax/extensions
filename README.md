@@ -1,3 +1,3 @@
 ```
-https://github.com/Suntrax/extensions/blob/main/index.min.json
+https://raw.githubusercontent.com/Suntrax/extensions/main/index.min.json
 ```
